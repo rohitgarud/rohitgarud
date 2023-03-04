@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [ASReview-preprocess](https://github.com/rohitgarud/asreview-preprocess)
 
-- 💬 Ask me about **Natural Language Processing, Active Learning**
+- 💬 Ask me about **Natural Language Processing**
 
 - 📫 How to reach me **rohit.garuda1992@gmail.com**
 

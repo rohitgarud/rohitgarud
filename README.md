@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **rohit.garuda1992@gmail.com**
 
+- [View Resume](https://github.com/rohitgarud/rohitgarud/blob/main/ROHIT%20GARUD%20Resume%2028-01-2023.pdf)
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/garuda1992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garuda1992" height="30" width="40" /></a>
